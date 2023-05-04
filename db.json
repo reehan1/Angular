@@ -1,0 +1,40 @@
+{
+  "seller": [
+    {
+      "name": "Reehan Ahmed",
+      "email": "reehana895@gmail.com",
+      "password": "Reehan@123",
+      "id": 1
+    },
+    {
+      "name": "Waseem Ahmed",
+      "email": "waseem@gmail.com",
+      "password": "was@123",
+      "id": 2
+    },
+    {
+      "name": "tony",
+      "password": "tonu@123",
+      "email": "tony@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "peter",
+      "password": "Peter@123",
+      "email": "peter@test.com",
+      "id": 4
+    },
+    {
+      "name": "Sharjeel",
+      "password": "Shar@123",
+      "email": "Sharjel@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 6
+    }
+  ]
+}
